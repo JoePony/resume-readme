@@ -37,11 +37,3 @@
 
 ## 求职意向：
 前端或大前端开发工程师  <br />
-
-<script>
-var aTagArr = [].slice.apply(document.getElementsByTagName("a"));
-
-aTagArr.forEach(function (e, i) {
-  e.href.indexOf("_blank") > -1 ? e.target = "_blank" : null;
-});
-</script>
