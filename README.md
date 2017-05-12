@@ -24,6 +24,7 @@
 2.	响应式图片管理系统（Web App 项目）：  <br />
 基于 H5C3、jQuery、Bootstrap、NodeJS 实现，除了实现"响应式新闻发布系统"的功能外，前端还实现了图片的瀑布流效果和 Ajax 按需加载。
 3.	前端 Demo（部分）：  <br />
+<a href="https://joepony.github.io/geekindex/" target="_blank">https://joepony.github.io/geekindex/</a> 仿教育网站首页  <br />
 <a href="https://joepony.github.io/login-register/" target="_blank">https://joepony.github.io/login-register/</a> 用JS模块化重构一个注册登录页面  <br />
 <a href="http://joepony.github.io/dom-1/" target="_blank">http://joepony.github.io/dom-1/</a> 原生JavaScript操作DOM   <br />
 <a href="http://joepony.github.io/page1/ " target="_blank">http://joepony.github.io/page1/ </a>仿百度首页   <br />
