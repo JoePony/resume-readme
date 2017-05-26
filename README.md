@@ -19,13 +19,16 @@
 
 ## 工作经历：
 西安精创网络科技有限公司，负责前端及站群开发；  <br />
-亦翔网络有限公司，负责网站页面制作，后期涉及 cms 前后端开发。
+亦翔网络有限公司，负责网站页面制作，后期涉及cms前后端开发。
 
 ## 项目经验：
 1.	响应式新闻发布系统（Web App 项目）：  <br />
-前后台界面实现响应式呈现、requireJS 模块加载后端用 PHP+MySQL 实现新闻图文数据的新增、修改、查询和删除在用户体验方面，后台信息列表做了分页、信息搜索用户侧实现信息列表的 Ajax 加载。
+选型： jQuery、Bootstrap、PHP、MySQL <br />
+功能：实现响应式呈现，后端实现新闻图文数据的新增、修改、查询和删除。<br />
+在用户体验方面，后台信息列表做了分页、信息搜索用户侧实现信息列表的 Ajax 加载。
 2.	响应式图片管理系统（Web App 项目）：  <br />
-基于 H5C3、jQuery、Bootstrap、NodeJS 实现，除了实现"响应式新闻发布系统"的功能外，前端还实现了图片的瀑布流效果和 Ajax 按需加载。
+选型：jQuery、Bootstrap、Node+Express+ejs、MySQL<br />
+功能：除了实现"响应式新闻发布系统"功能外，前端还实现了图片的瀑布流效果和 Ajax 按需加载。
 3.	前端 Demo（部分）：  <br />
 - 仿中型网站首页 <a href="https://joepony.github.io/geekindex/" target="_blank">https://joepony.github.io/geekindex/</a>   <br />
 - 仿百度首页 <a href="http://joepony.github.io/page1/ " target="_blank">http://joepony.github.io/page1/ </a>   <br />
