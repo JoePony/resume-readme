@@ -30,6 +30,13 @@
 <a href="http://joepony.github.io/page1/ " target="_blank">http://joepony.github.io/page1/ </a>仿百度首页   <br />
 <a href="http://joepony.github.io/page2/ " target="_blank">http://joepony.github.io/page2/ </a>四则计算器   <br />
 <a href="http://joepony.github.io/bootstrap-1/" target="_blank">http://joepony.github.io/bootstrap-1/</a> 基于 Bootstrap 的静态页面
+## 线上项目：
+1.铂恩德建筑设计咨询(上海)有限公司http://www.bownd.cn/
+2.建筑勘察设计研究院 http://www.qhadi.com/  
+大通党建http://www.qhdtdj.gov.cn/ 
+大通人大http://www.dtrd.gov.cn/ 
+黄南人大http://www.huangnanrd.gov.cn/ 
+水电技师学院http://www.qhsdxx.com/ 
 
 ## 自我评价：
 热爱前端，乐于分享，工作认真、细致；  <br />
