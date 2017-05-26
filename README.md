@@ -43,7 +43,7 @@
 - 大通人大http://www.dtrd.gov.cn/ 
 - 黄南人大http://www.huangnanrd.gov.cn/ 
 - 水电技师学院http://www.qhsdxx.com/ 
-注:之前项目不代表当前水平
+<br />注:之前项目不代表当前水平
 ## 自我评价：
 细致、热爱前端，乐于分享，工作认真、  <br />
 负责注重用户体验，以及项目的可维护性；  <br />
