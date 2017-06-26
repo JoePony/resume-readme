@@ -35,7 +35,7 @@
 选型：jQuery、Bootstrap、Node+Express+ejs、MySQL<br />
 功能：除了实现"响应式新闻发布系统"功能外，前端还实现了图片的瀑布流效果和 Ajax 按需加载。
 3.	前端 Demo（部分）：  <br />
-- 一个基于jQuery实现的轮播/切换组件 <a href="https://joepony.github.io/slideJQ-plugin/" target="_blank">查看</a>
+- 一个多用途轮播/切换组件 <a href="https://joepony.github.io/slideJQ-plugin/" target="_blank">查看</a>
 - 仿中型网站首页 <a href="https://joepony.github.io/geekindex/" target="_blank">查看</a>   <br />
 - 仿百度首页 <a href="http://joepony.github.io/page1/ " target="_blank">查看</a>   <br />
 - 用JS模块化重构注册登录页面 <a href="https://joepony.github.io/login-register/" target="_blank">查看</a> 
