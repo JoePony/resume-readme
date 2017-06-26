@@ -35,13 +35,13 @@
 选型：jQuery、Bootstrap、Node+Express+ejs、MySQL<br />
 功能：除了实现"响应式新闻发布系统"功能外，前端还实现了图片的瀑布流效果和 Ajax 按需加载。
 3.	前端 Demo（部分）：  <br />
-- 一个多用途轮播/切换组件 <a href="https://joepony.github.io/slideJQ-plugin/" target="_blank">查看</a>
-- 仿中型网站首页 <a href="https://joepony.github.io/geekindex/" target="_blank">查看</a>   <br />
-- 仿百度首页 <a href="http://joepony.github.io/page1/ " target="_blank">查看</a>   <br />
-- 用JS模块化重构注册登录页面 <a href="https://joepony.github.io/login-register/" target="_blank">查看</a> 
-- 原生JavaScript操作DOM <a href="http://joepony.github.io/dom-1/" target="_blank">查看</a>
-- 四则计算器 <a href="http://joepony.github.io/page2/ " target="_blank">查看</a>  <br />
-- 基于 Bootstrap 的静态页面<a href="http://joepony.github.io/bootstrap-1/" target="_blank">查看</a> 
+- 多用途轮播/切换组件 <a href="https://joepony.github.io/slideJQ-plugin/" target="_blank">查看(建议在新标签页打开)</a>
+- 仿中型网站首页 <a href="https://joepony.github.io/geekindex/" target="_blank">查看(建议在新标签页打开)</a>   <br />
+- 仿百度首页 <a href="http://joepony.github.io/page1/ " target="_blank">查看(建议在新标签页打开)</a>   <br />
+- 用JS模块化重构注册登录页面 <a href="https://joepony.github.io/login-register/" target="_blank">查看(建议在新标签页打开)</a> 
+- 原生JavaScript操作DOM <a href="http://joepony.github.io/dom-1/" target="_blank">查看(建议在新标签页打开)</a>
+- 计算器 <a href="http://joepony.github.io/page2/ " target="_blank">查看(建议在新标签页打开)</a>  <br />
+- 基于 Bootstrap 的静态页面<a href="http://joepony.github.io/bootstrap-1/" target="_blank">查看(建议在新标签页打开)</a> 
 ## 线上项目：
 - 铂恩德建筑设计咨询(上海)有限公司http://www.bownd.cn/
 - 建筑勘察设计研究院 http://www.qhadi.com/  
