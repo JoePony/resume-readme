@@ -43,15 +43,15 @@
 - 计算器 <a href="http://joepony.github.io/page2/ " target="_blank">查看(建议在新标签页打开)</a>  <br />
 - 基于 Bootstrap 的静态页面<a href="http://joepony.github.io/bootstrap-1/" target="_blank">查看(建议在新标签页打开)</a> 
 ## 线上项目：
-- 铂恩德建筑设计咨询(上海)有限公司http://www.bownd.cn/
+- 铂恩德建筑设计咨询(上海)有限公司 http://www.bownd.cn/
 - 建筑勘察设计研究院 http://www.qhadi.com/  
-- 大通党建http://www.qhdtdj.gov.cn/ 
-- 大通人大http://www.dtrd.gov.cn/ 
-- 黄南人大http://www.huangnanrd.gov.cn/ 
-- 水电技师学院http://www.qhsdxx.com/ 
+- 大通党建 http://www.qhdtdj.gov.cn/ 
+- 大通人大 http://www.dtrd.gov.cn/ 
+- 黄南人大 http://www.huangnanrd.gov.cn/ 
+- 水电技师学院 http://www.qhsdxx.com/ 
 ###### 注:之前项目不代表当前水平
 ## 自我评价：
-细致、热爱前端，乐于分享，工作认真、  <br />
+热爱前端，乐于分享，工作用心； <br />
 负责注重用户体验，以及项目的可维护性；  <br />
 具备较强独立开发能力和团队合作精神。  <br />
 
